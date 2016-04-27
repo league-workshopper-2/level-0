@@ -25,7 +25,7 @@ public class SleepyHead {
 			System.out.println(it);
 			System.out.println("Get Up Lazybones!");
 		
-		if (is==0 it==0) {
+		if (is.equals0 it.equals0) {
 			System.out.println("sleep in");
 		}
 		}
